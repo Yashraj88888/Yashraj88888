@@ -12,8 +12,10 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Yashraj88888&theme=chartreuse-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashraj88888&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ Dev Quote
+> “The only way to learn a new programming language is by writing programs in it.”  
+> — Dennis Ritchie
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Yashraj88888&limit=5&theme=dark&combine_all_yearly_contributions=true)
