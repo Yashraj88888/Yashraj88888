@@ -21,7 +21,7 @@
 
 ### 🔝 Top Contributed Repo
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Yashraj88888&limit=5&theme=dark&combine_all_yearly_contributions=true" height="100"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=Yashraj88888&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
 </p>
 
 
