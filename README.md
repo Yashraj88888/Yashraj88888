@@ -20,9 +20,11 @@
 
 
 ### 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Yashraj88888&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
-</p>
+![](https://github-contributor-stats.vercel.app/api?username=Yashraj88888&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yashraj88888&label=Profile%20views&color=0e75b6&s
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
